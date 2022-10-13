@@ -1,0 +1,9 @@
+token.json
+node_modules
+.DS_Store
+.env
+threads.json
+threads.csv
+credentials.json
+personalThreads.json
+
